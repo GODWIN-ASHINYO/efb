@@ -1,0 +1,62 @@
+body{
+  display: flex;
+  background-color: #2777d3a6;
+  color: white;
+  justify-content: center;
+}
+
+
+
+.card{
+  width: 200px;
+  height: 350px;
+  background-color: white;
+  color: #0f0f0f;
+  border-radius: 10px;
+  box-shadow: 10px 10px 10px  rgb(15, 15, 15);
+  padding: ; text-align: center;
+  margin-top: 40px;
+}
+.card1 :hover{
+
+background-color: rgb(11, 100, 128);
+border-radius: 20px;
+width: 200px;
+
+}
+
+.img1{
+  width: 200px;
+  height: 120px;
+  background-color: #0f0f0f;
+   border-radius: 10px 10px 0px 0px;
+}
+
+img{
+  height:120px ;
+  width: 200px;
+   border-radius: 10px 10px 0px 0px;
+}
+.login{
+  border: px solid;
+  
+  
+  height: 50px;
+}
+button{
+  background-color: rgb(235, 238, 238);
+  color: blue;
+  height: 18px;
+  margin-top: 3px;
+  border-radius: 4px;
+}
+
+
+.below{
+  background-color: rgba(7, 42, 56, 0.932);
+  color: white;
+  height: 25px;
+  width: 200px;
+  margin-top: 50px;
+  border-radius: 0px 0px 10px 10px;
+}
